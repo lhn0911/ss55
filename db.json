@@ -1,0 +1,29 @@
+{
+  "user":[
+    {
+      "id":1,
+      "name":"nguyen van a",
+      "age":18
+    },
+    {
+      "id":2,
+      "name":"nguyenvanb",
+      "age":19
+    },
+    {
+      "id":3,
+      "name":"nguyenvanc",
+      "age":20
+    },
+    {
+      "id":4,
+      "name":"nguyenvand",
+      "age":21
+    },
+    {
+      "id":5,
+      "name":"nguyenvane",
+      "age":22
+    }
+  ]
+}
